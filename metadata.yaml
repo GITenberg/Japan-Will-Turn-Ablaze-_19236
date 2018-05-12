@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8560'
     url: http://www.gutenberg.org/2009/agents/8560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19236#Japan-Will-Turn-Ablaze-
 gutenberg_issued: '2006-09-12'
 gutenberg_type: Text
 identifiers:
