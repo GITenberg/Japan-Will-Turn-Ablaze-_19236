@@ -1,0 +1,30 @@
+_repo: Japan-Will-Turn-Ablaze-_19236
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Sims, Barbara R. (Barbara Rutledge)
+    birthdate: 1918
+    deathdate: 2002
+    gutenberg_agent_id: '8560'
+    url: http://www.gutenberg.org/2009/agents/8560
+description: ''
+gutenberg_issued: '2006-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19236'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Augur, George Jacob, 1853-1927'
+- !lcc 'BP'
+- !lcsh 'Alexander, Agnes B. (Agnes Baldwin), 1875-1970'
+- !lcsh 'Bahais -- Japan'
+- !lcsh 'Yamamoto, Kanichi, 1879-1961'
+- !lcsh 'Bahais -- United States'
+title: Japan Will Turn Ablaze!
+url: http://www.gutenberg.org/ebooks/19236
